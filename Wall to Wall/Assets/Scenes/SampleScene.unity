@@ -192,7 +192,7 @@ PrefabInstance:
     - target: {fileID: 8936427958059321678, guid: 729e57ebf698f6b48bfd6935ece06de5,
         type: 3}
       propertyPath: address
-      value: 192.168.1.67
+      value: 192.168.1.131
       objectReference: {fileID: 0}
     - target: {fileID: 8936427958059321678, guid: 729e57ebf698f6b48bfd6935ece06de5,
         type: 3}
@@ -398,6 +398,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1097170948780076903, guid: 676ef497470d36c40b1fb6b374ddd282,
+        type: 3}
+      propertyPath: m_Name
+      value: Water
+      objectReference: {fileID: 0}
     - target: {fileID: 4673247816900318326, guid: 676ef497470d36c40b1fb6b374ddd282,
         type: 3}
       propertyPath: m_Name

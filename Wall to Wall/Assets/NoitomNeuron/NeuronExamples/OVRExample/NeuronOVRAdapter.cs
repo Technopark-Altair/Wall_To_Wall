@@ -5,10 +5,9 @@ public class NeuronOVRAdapter : MonoBehaviour
 {
     public Transform            bindTransform = null;
     
-    void Update( )
+    void FixedUpdate( )
     {        
 		// Re-Position the camera to our head bind Target
         transform.position = bindTransform.position;
-        transform.rotation = bindTransform.rotation;
     }
 }
