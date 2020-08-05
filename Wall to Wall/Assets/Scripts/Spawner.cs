@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Spawner : MonoBehaviour
@@ -10,9 +11,7 @@ public class Spawner : MonoBehaviour
 
     [SerializeField]
     Text countdownText;
-    [SerializeField]
     int minTextSize = 25;
-    [SerializeField]
     int maxTextSize = 70;
 
     [SerializeField]
@@ -64,6 +63,11 @@ public class Spawner : MonoBehaviour
         {
             end_printed = true;
             StartCoroutine(EndGame());
+        }
+
+        if (OVRInput.Get(OVRInput.Button.PrimaryTouchpad))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 
