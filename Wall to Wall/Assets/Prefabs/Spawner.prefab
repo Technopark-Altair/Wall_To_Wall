@@ -77,13 +77,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   countdownText: {fileID: 33592425136637506}
-  minTextSize: 25
-  maxTextSize: 70
   Carriage1: {fileID: 0}
   Carriage2: {fileID: 0}
   EndTrace: {fileID: 33592423205027623}
-  EasyWalls: []
-  NormalWalls: []
+  EasyWalls:
+  - {fileID: 8032235342346104662, guid: d6d187f2f25887a4faa58b580079ffc4, type: 3}
+  - {fileID: 775641180109439041, guid: 241774676b24a0a40a5a60308945693e, type: 3}
+  - {fileID: 8443414475026484157, guid: f80cd91fe98b3584083f5627a0376a2c, type: 3}
+  - {fileID: 1891280102967882643, guid: 5401754a1d1094843aa39baa7980aa5a, type: 3}
+  - {fileID: 4526951741237809893, guid: 4971465fa86328240898174c0d00840a, type: 3}
+  - {fileID: 4465737500395678935, guid: c4b38dafa091cdc42a5cce8925a660a7, type: 3}
+  - {fileID: 2112814458134001692, guid: dbe20e7f07c7bc541b01f0462a948f1a, type: 3}
+  - {fileID: 411947543333647259, guid: f8ce60e6e712d5a448f9d314815aed0d, type: 3}
+  - {fileID: 680339626230844104, guid: 7ee1caf7bdddee64ab5bd0141548f30d, type: 3}
+  - {fileID: 2877082989306221656, guid: 00cb49f23212a6c40be71c69b577c503, type: 3}
+  NormalWalls:
+  - {fileID: 6198941230048284401, guid: 7fbbacfa2b96b944285e3b3823fec621, type: 3}
+  - {fileID: 5204763733468523529, guid: 08299e21fd8e21c459de9a9be2946626, type: 3}
+  - {fileID: 9022569247047730383, guid: 3f18dda11bb6c5f4d8de0e3f673ca65a, type: 3}
+  - {fileID: 7186344638724931894, guid: e9d8c55809b21614ca781cc36bfbcffe, type: 3}
+  - {fileID: 224597260732754219, guid: 3884822d982d6d541aa277509ceb4136, type: 3}
+  - {fileID: 8555768043709020057, guid: bfe407f39dc9cac478efc44548bcb804, type: 3}
+  - {fileID: 8886472707501449239, guid: e246062dcb1f69c4ab49e7bd5f09ec09, type: 3}
+  - {fileID: 857254829250080855, guid: c6e1aaf9895f4bc4783c8701a0adb133, type: 3}
+  - {fileID: 4816610177270014839, guid: c0ccead9c71c22348a2183be33a23370, type: 3}
+  - {fileID: 2496283875322487190, guid: 1903ac08e7246084c84b80f44f37ae7c, type: 3}
   HardWalls: []
   Touched_Wall: 0
 --- !u!1 &33592424857560154

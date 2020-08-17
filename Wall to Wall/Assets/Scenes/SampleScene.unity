@@ -220,21 +220,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
         type: 3}
-      propertyPath: EasyWalls.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: NormalWalls.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: HardWalls.Array.size
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
       propertyPath: Carriage1
       value: 
       objectReference: {fileID: 6194006361186970813}
@@ -245,45 +230,9 @@ PrefabInstance:
       objectReference: {fileID: 3847610926685928400}
     - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
         type: 3}
-      propertyPath: EasyWalls.Array.data[0]
-      value: 
-      objectReference: {fileID: 8032235342346104662, guid: d6d187f2f25887a4faa58b580079ffc4,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: NormalWalls.Array.data[0]
-      value: 
-      objectReference: {fileID: 1891280102967882643, guid: 5401754a1d1094843aa39baa7980aa5a,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
       propertyPath: HardWalls.Array.data[0]
       value: 
       objectReference: {fileID: 2112814458134001692, guid: dbe20e7f07c7bc541b01f0462a948f1a,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: EasyWalls.Array.data[1]
-      value: 
-      objectReference: {fileID: 775641180109439041, guid: 241774676b24a0a40a5a60308945693e,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: EasyWalls.Array.data[2]
-      value: 
-      objectReference: {fileID: 8443414475026484157, guid: f80cd91fe98b3584083f5627a0376a2c,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: NormalWalls.Array.data[1]
-      value: 
-      objectReference: {fileID: 4526951741237809893, guid: 4971465fa86328240898174c0d00840a,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: NormalWalls.Array.data[2]
-      value: 
-      objectReference: {fileID: 4465737500395678935, guid: c4b38dafa091cdc42a5cce8925a660a7,
         type: 3}
     - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
         type: 3}
