@@ -228,30 +228,6 @@ PrefabInstance:
       propertyPath: Carriage2
       value: 
       objectReference: {fileID: 3847610926685928400}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: HardWalls.Array.data[0]
-      value: 
-      objectReference: {fileID: 2112814458134001692, guid: dbe20e7f07c7bc541b01f0462a948f1a,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: HardWalls.Array.data[1]
-      value: 
-      objectReference: {fileID: 411947543333647259, guid: f8ce60e6e712d5a448f9d314815aed0d,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: HardWalls.Array.data[2]
-      value: 
-      objectReference: {fileID: 680339626230844104, guid: 7ee1caf7bdddee64ab5bd0141548f30d,
-        type: 3}
-    - target: {fileID: 33592423416827009, guid: ff814ad659c6bcd449657e25dfdb8334,
-        type: 3}
-      propertyPath: HardWalls.Array.data[3]
-      value: 
-      objectReference: {fileID: 2877082989306221656, guid: 00cb49f23212a6c40be71c69b577c503,
-        type: 3}
     - target: {fileID: 33592423416827010, guid: ff814ad659c6bcd449657e25dfdb8334,
         type: 3}
       propertyPath: m_LocalPosition.x
